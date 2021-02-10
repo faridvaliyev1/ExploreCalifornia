@@ -20,7 +20,7 @@ namespace ExploreCalifornia.WebApp
 
             var connection = factory.CreateConnection();
             var channel = connection.CreateModel();
-            channel.ExchangeDeclare("webAppExchange", ExchangeType.Direct,true);
+            channel.ExchangeDeclare("webAppExchange", ExchangeType.Topic,true);
             channel.Close();
             connection.Close();
             CreateWebHostBuilder(args).Build().Run();

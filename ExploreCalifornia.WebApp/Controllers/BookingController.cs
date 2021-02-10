@@ -51,7 +51,7 @@ namespace ExploreCalifornia.WebApp.Controllers
             var connection = factory.CreateConnection();
             var channel = connection.CreateModel();
 
-            channel.ExchangeDeclare("webAppExchange", ExchangeType.Direct, true);
+            channel.ExchangeDeclare("webAppExchange", ExchangeType.Topic, true);
 
             var bytes = Encoding.UTF8.GetBytes(message);
             channel.BasicPublish("webAppExchange",routingKey, null, bytes);

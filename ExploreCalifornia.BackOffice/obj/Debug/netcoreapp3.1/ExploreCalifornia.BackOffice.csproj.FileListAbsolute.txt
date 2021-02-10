@@ -1,0 +1,16 @@
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.exe
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.deps.json
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.runtimeconfig.json
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.runtimeconfig.dev.json
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.dll
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.pdb
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.csprojAssemblyReference.cache
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.AssemblyInfoInputs.cache
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.AssemblyInfo.cs
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.csproj.CopyComplete
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.dll
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.pdb
+C:\Users\Farid\Desktop\RabbitMQ\Part1\02_01 Begin\WebApp\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp3.1\ExploreCalifornia.BackOffice.genruntimeconfig.cache

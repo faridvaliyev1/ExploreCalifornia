@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExploreCalifornia.WebApp", "ExploreCalifornia.WebApp\ExploreCalifornia.WebApp.csproj", "{3B80D7C6-AEE1-4CFE-883B-9CEBD4CBE374}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploreCalifornia.EmailService", "ExploreCalifornia.EmailService\ExploreCalifornia.EmailService.csproj", "{094E8160-BCCD-47C9-BF4A-0114BA6EDCBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExploreCalifornia.EmailService", "ExploreCalifornia.EmailService\ExploreCalifornia.EmailService.csproj", "{094E8160-BCCD-47C9-BF4A-0114BA6EDCBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploreCalifornia.BackOffice", "ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice.csproj", "{BC1293DB-1AB0-4036-B887-A1EA8BFCB357}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{094E8160-BCCD-47C9-BF4A-0114BA6EDCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{094E8160-BCCD-47C9-BF4A-0114BA6EDCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{094E8160-BCCD-47C9-BF4A-0114BA6EDCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1293DB-1AB0-4036-B887-A1EA8BFCB357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1293DB-1AB0-4036-B887-A1EA8BFCB357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1293DB-1AB0-4036-B887-A1EA8BFCB357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1293DB-1AB0-4036-B887-A1EA8BFCB357}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
